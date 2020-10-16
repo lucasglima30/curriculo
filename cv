@@ -1,0 +1,223 @@
+​<!DOCTYPE html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<title>lucaslima_cv</title>
+
+<!-- Fonts -->
+
+<link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+<style>
+
+.linha{
+
+margin:5%;
+
+}
+
+.coluna1{
+
+border-right:solid 3px black;
+
+}
+
+.title-info{
+
+text-transform: uppercase;
+
+margin-top:40px;
+
+}
+
+.info{
+
+border-bottom:solid 2px black;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div>
+
+<div>
+
+<div>
+
+<h1>Lucas Gonçalves de Lima</h1>
+
+</div>
+
+<div>
+
+<h3>Sobre Mim</h3>
+
+</div>
+
+<div>
+
+<p>Desde o início de 2019 me interessei e
+
+venho estudando de maneira auto-didata
+
+tudo sobre desenvolvimento web. Agora
+
+que tenho uma base sólida, somada à
+
+minha experiência em estágio busco uma
+
+oportunidade de emprego em tempo
+
+integral para seguir aprendendo e para
+
+colocar em prática tudo que venho
+
+estudando.</p>
+
+</div>
+
+<div>
+
+<h3>Contato</h3>
+
+</div>
+
+<div>
+
+<ul>
+
+<li>Celular: (00)0000-0000</li>
+
+<li>lucasglima38@hotmail.com</li>
+
+<li>Londrina - Paraná</li>
+
+<li>Linkedin: www.linkedin.com/in/lgl99>
+
+</ul>
+
+</div>
+
+<div>
+
+<h3>Experiência Profissional</h3>
+
+</div>
+
+<div>
+
+<ul>
+
+<li>Desenvolvedor C# em <strong>Blabla Tecnologia</strong> - Out/2019 - Presente.</li>
+
+<p>Desenvolvimento e manutenção de sistemas de
+
+variados segmentos em C#, utilizando ASP.NET, MVC5,
+
+SQL, JQuery, Json, Ajax e Git. Sempre trabalhando com
+
+todos os rituais de SCRUM e Kanban.</p>
+
+</ul>
+
+</div>
+
+<div>
+
+<h3>Idiomas</h3>
+
+</div>
+
+<div>
+
+<ul><li><strong>Inglês:</strong> Avançado.</li></ul>
+
+</div>
+
+</div>
+
+<div>
+
+<div>
+
+<h3>Formação</h3>
+
+</div>
+
+<div>
+
+<ul>
+
+<li>Análise e Desenvolvimento de Sistemas - UNOPAR de 07/2019 - 07/2022.</li>
+
+<li>Curso de Inglês básico ao avançado no Instituto Haward de 06/2018 - 12/2020.</li>
+
+<li>Curso de Inglês básico na Microcamp de JAN/2014 - DEZ/2015</li>
+
+</ul>
+
+</div>
+
+<div>
+
+<h3>Competências</h3>
+
+</div>
+
+<div>
+
+<ul>
+
+<li>HTML</li>
+
+<li>CSS</li>
+
+<li>MVC</li>
+
+<li>PHP</li>
+
+<li>Javascript</li>
+
+<li>POO (Programação Orientada À Objetos).</li>
+
+<li>Linux</li>
+
+<li>MySQL</li>
+
+<li>PostgreSQL</li>
+
+<li>Git</li>
+
+<li>Bootstrap</li>
+
+<li>C#</li>
+
+<li>ASP.NET</li>
+
+<li>JQuery</li>
+
+<li>JSON e Ajax</li>
+
+<li>Familiriadade com Laravel</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
+
